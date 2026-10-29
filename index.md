@@ -22,6 +22,7 @@ My research interests include:
   and robust decision-making.
 - **Optimal investment:** Real options, irreversible investment,
   and investment timing under uncertainty.
+- **Macroeconomics:** OLG modelling, term structure models and macrofinance.
 - **Probability theory:** Martingales, stochastic processes,
   and stochastic calculus.
 - **Information theory:** Relative entropy, divergence measures,
