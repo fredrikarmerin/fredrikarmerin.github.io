@@ -1,1 +1,16 @@
+title: "Fredrik Armerin"
+description: "Academic research in economics, probability, and stochastic analysis"
+url: "https://fredrikarmerin.github.io"
+baseurl: ""
 
+theme: minima
+
+author:
+  name: "Fredrik Armerin"
+
+markdown: kramdown
+
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
