@@ -63,7 +63,7 @@ See [Teaching](teaching.md) for further information.
 For academic enquiries and research-related correspondence,
 please get in touch by email.
 
-**Email:** Add your academic email address here.
+**Email:** fredrik.armerin@umu.se or fredrik.armerin@nek.uu.se
 
 You can also find my academic profile and research papers
 through the relevant academic databases.
