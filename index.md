@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Fredrik Armerin
-
 Welcome to my academic website.
 
 I am an academic researcher with interests in economics,
