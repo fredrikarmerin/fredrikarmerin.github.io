@@ -4,7 +4,7 @@ layout: home
 
 Welcome to my academic website.
 
-I am an academic researcher with interests in economics,
+I am a researcher with interests in economics,
 probability theory, stochastic analysis, and mathematical
 finance.
 
